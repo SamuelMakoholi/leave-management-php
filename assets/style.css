@@ -1,0 +1,32 @@
+body{
+    background-color: ghostwhite;
+    font-family: "Berlin Sans FB Demi";
+    font-style: italic;
+    text-align: center;
+}
+
+.color{
+    color: whitesmoke;
+    background-color: darkblue;
+    height: 800px;
+}
+
+.footer{
+    border-radius: 500px;
+}
+
+a{
+    color: #1c7430;
+    font-weight: bold ;
+}
+
+.color, h2{
+    padding-top: 170px;
+}
+.color, p{
+    padding: 20px;
+}
+
+.card{
+    margin: 150px ;
+}
